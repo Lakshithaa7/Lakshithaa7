@@ -1,25 +1,27 @@
-👋 Hey there! I'm Lakshitha, a pre-final year student with a passion for technology and a drive to make a positive impact through code.
-
-🚀 **Student Developer:** Currently pursuing my Undergraduate degree at Panimalar Engineering College, I'm passionate about using technology to address issues that arise in the real world. My courses and personal initiatives demonstrate my commitment to lifelong learning and application.
-
-🌱 **Learning Journey:** I'm currently exploring the intersection of Data Science and Digital Marketing, and I'm excited about diving deeper into Marketing Analytics. I believe in the power of continuous learning to stay ahead in the dynamic tech landscape.
-
-🔧 **Tech Stack:** Proficient in Python and C, I'm honing my skills in Java. I'm excited about the opportunities that technology presents and can't wait to contribute to open source.
-
-📫 **Let's Connect:** I'm open to collaborations, mentorship, and discussions on all things tech. Reach out if you share similar interests or have exciting projects in mind!
-
-⚡ **Internship Journey:** Currently seeking internship opportunities to apply my skills in a real-world setting. I'm excited about gaining hands-on experience and contributing to meaningful projects.
-
-📚 **Education:** Panimalar Engineering College, B.E in Computer and Communication Engineering, graduating in the year 2025.
-
-🔗 **Links:**
-- [LinkedIn] www.linkedin.com/in/lakshitha-parthasarathy-317878236
-- [Portfolio] https://lakshithaa7.github.io/Lakshitha-Parthasarathy.github.io/
-- [Instagram] https://www.instagram.com/_._lakshithaa._/
-
-Excited to embark on this coding journey and contribute meaningfully to the tech community! 🌟
+# 💫 About Me:
+👋 Hey there! I'm Lakshitha, a pre-final year student with a passion for technology and a drive to make a positive impact through code.<br><br>🚀 Student Developer: Currently pursuing my Undergraduate degree at Panimalar Engineering College, I'm passionate about using technology to address issues that arise in the real world. My courses and personal initiatives demonstrate my commitment to lifelong learning and application.<br><br>🌱 Learning Journey: I'm currently exploring the intersection of Data Science and Digital Marketing, and I'm excited about diving deeper into Marketing Analytics. I believe in the power of continuous learning to stay ahead in the dynamic tech landscape.<br><br>🔧 Tech Stack: Proficient in Python and C, I'm honing my skills in Java. I'm excited about the opportunities that technology presents and can't wait to contribute to open source.<br><br>📫 Let's Connect: I'm open to collaborations, mentorship, and discussions on all things tech. Reach out if you share similar interests or have exciting projects in mind!<br><br>⚡ Internship Journey: Currently seeking internship opportunities to apply my skills in a real-world setting. I'm excited about gaining hands-on experience and contributing to meaningful projects.<br><br>📚 Education: Panimalar Engineering College, B.E in Computer and Communication Engineering, graduating in the year 2025.<br><br>Excited to embark on this coding journey and contribute meaningfully to the tech community! 🌟<br><br>⚡ Fun fact: Apart from academics, I enjoy reading books and novels of different genres. Also, I very much adore reading poetry.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lakshitha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._lakshithaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lakshitha Parthasarathy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lakshitha07) 
 
-- ⚡ Fun fact: Apart from academics, I enjoy reading books and novels of different genres. Also, I very much adore reading poetry.
-  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lakshithaa7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lakshithaa7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshithaa7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lakshithaa7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Lakshithaa7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Lakshithaa7&icon=2&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
