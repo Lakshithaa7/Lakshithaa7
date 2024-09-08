@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshitha P</h1>
-<h3 align="center">A final-year undergrad student with a passion for technology and a drive to make a positive impact through code. <br> 🔧Tech Stack: Proficient in Java and C. I'm excited about the opportunities that technology presents and can't wait to contribute to open source. <br> 📫 Let's Connect: I'm open to collaborations, mentorship, and discussions on all things tech. Reach out if you share similar interests or have exciting projects in mind! <br> 📚 Education: Panimalar Engineering College, B.E in Computer and Communication Engineering, graduating in the year 2025.</h3>
+<h3 align="left">A final-year undergrad student with a passion for technology and a drive to make a positive impact through code. <br> 🔧Tech Stack: Proficient in Java and C. I'm excited about the opportunities that technology presents and can't wait to contribute to open source. <br> 📫 Let's Connect: I'm open to collaborations, mentorship, and discussions on all things tech. Reach out if you share similar interests or have exciting projects in mind! <br> 📚 Education: Panimalar Engineering College, B.E in Computer and Communication Engineering, graduating in the year 2025.</h3>
 
 - 📫 How to reach me **lakshithasarathy07@gmail.com**
 
